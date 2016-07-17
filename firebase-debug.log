@@ -1,0 +1,14 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /home/edgaralejod/.nvm/versions/node/v6.3.0/bin/node /home/edgaralejod/.nvm/versions/node/v6.3.0/bin/firebase serve
+[debug] CLI Version:  3.0.4
+[debug] Platform:     linux
+[debug] Node Version: v6.3.0
+[debug] Time:         Sun Jul 17 2016 15:26:23 GMT-0500 (CDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /home/edgaralejod/startbootstrap-the-big-picture
+[info] Public Directory: /
+[info] 
+[info] Server listening at: http://localhost:5000
